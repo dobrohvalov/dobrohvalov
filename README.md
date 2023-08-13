@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-http://github-readme-streak-stats.herokuapp.com?
-<br><br>
 <img align="left" src="https://komarev.com/ghpvc/?username=dobrohvalov&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="dobrohvalov" />
